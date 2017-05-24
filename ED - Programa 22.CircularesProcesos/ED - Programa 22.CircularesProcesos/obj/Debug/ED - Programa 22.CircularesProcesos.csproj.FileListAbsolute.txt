@@ -1,0 +1,9 @@
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 22.CircularesProcesos\ED - Programa 22.CircularesProcesos\bin\Debug\ED - Programa 22.CircularesProcesos.exe.config
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 22.CircularesProcesos\ED - Programa 22.CircularesProcesos\bin\Debug\ED - Programa 22.CircularesProcesos.exe
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 22.CircularesProcesos\ED - Programa 22.CircularesProcesos\bin\Debug\ED - Programa 22.CircularesProcesos.pdb
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 22.CircularesProcesos\ED - Programa 22.CircularesProcesos\obj\Debug\ED - Programa 22.CircularesProcesos.csprojResolveAssemblyReference.cache
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 22.CircularesProcesos\ED - Programa 22.CircularesProcesos\obj\Debug\ED___Programa_22.CircularesProcesos.Form1.resources
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 22.CircularesProcesos\ED - Programa 22.CircularesProcesos\obj\Debug\ED___Programa_22.CircularesProcesos.Properties.Resources.resources
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 22.CircularesProcesos\ED - Programa 22.CircularesProcesos\obj\Debug\ED - Programa 22.CircularesProcesos.csproj.GenerateResource.Cache
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 22.CircularesProcesos\ED - Programa 22.CircularesProcesos\obj\Debug\ED - Programa 22.CircularesProcesos.exe
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 22.CircularesProcesos\ED - Programa 22.CircularesProcesos\obj\Debug\ED - Programa 22.CircularesProcesos.pdb
